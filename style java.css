@@ -1,0 +1,13 @@
+body {
+  /* thats our background-image  */
+  background-image: url(images.jfif);
+}
+/* that our i dont know discribtion */
+p {
+  font-size: 104px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  color: rgb(77, 249, 192);
+  padding: 20px 30px;
+  background: white ;
+  border-radius: 15PX;
+}
