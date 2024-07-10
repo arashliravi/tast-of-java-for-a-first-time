@@ -28,14 +28,20 @@ a:hover {
   padding: 15px 20px;
   border-radius: 15px;
   margin-left: 0px;
+  animation-name: MYMOVE;
 }
 /* thats javascripts informaition  */
 a {
   margin-left: 15px;
   color: rgb(73, 73, 131);
+  text-decoration: none;
 }
 p{
   color: rgb(73, 73, 131); 
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
 
+}
+@keyframes  MYMOVE {
+  FROM {TOP: 20PX;}
+  TO {TOP: 200PX;}
 }
