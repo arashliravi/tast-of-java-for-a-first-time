@@ -8,6 +8,7 @@ p {
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
   color: rgb(77, 249, 192);
   padding: 20px 30px;
-  background: white ;
-  border-radius: 15PX;
+  background: white;
+  border-radius: 20px;
+
 }
